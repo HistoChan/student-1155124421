@@ -1,4 +1,4 @@
-## Name  
+## My Name  
 CHEN Tianhao  
 ## About Myself
 Just a _nerd_, not yet a _geek_
