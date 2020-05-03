@@ -15,3 +15,5 @@ Just a _nerd_, not yet a _geek_
 |    :--:     |     :--:     |
 |Engineering Practicum|CSCI 3251|
 |Computers and Society|CSCI 3250|
+## Screenshot Record
+![This is my screenshot](https://github.com/csci3251-2020/student-1155124421/blob/master/Screenshot%202020-05-03%20at%2022.38.56.png?raw=true)
